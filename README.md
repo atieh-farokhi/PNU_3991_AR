@@ -2,7 +2,7 @@
 # Atieh farokhi
 - [PNU_3991_AR](https://github.com/atieh-farokhi/Pnu_3991_ar)
 - [Resume](https://atieh-farokhi.github.io/atiehfarokhi.github.io/) 
-- [SOP](https://github.com/atieh-farokhi/sop)
+- [SOP](https://atieh-farokhi.github.io/sop/)
 - [GitHub](https://github.com/atieh-farokhi)
 - [js]()
 -----------------
