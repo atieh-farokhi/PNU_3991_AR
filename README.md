@@ -110,14 +110,14 @@
     <th></th>
      <th ></th>
      <th ></th>
-     <th></th>
+     <th>طراحی کامپایلر	</th>
     <th></th>
     <th></th>   
     <th>دوشنبه</th>
   </tr>
    <tr>
     <th></th>
-    <th >ریاضی مهندسی	</th>
+    <th ></th>
     <th ></th>
     <th></th>
     <th></th>
