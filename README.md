@@ -25,7 +25,7 @@
 
 ## دروس کارشناسی
 
-[1115157_01   نظريه زبانهاوماشين ها ]https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_01/48_%D8%B9%D8%B7%D9%8A%D9%87%20%D9%81%D8%B1%D8%AE%D9%8A%20%D8%AD%D8%A7%D8%AC%D9%8A%20%D8%A7%D8%A8%D8%A7%D8%AF)
+[1115157_01   نظريه زبانهاوماشين ها ](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_01/48_%D8%B9%D8%B7%D9%8A%D9%87%20%D9%81%D8%B1%D8%AE%D9%8A%20%D8%AD%D8%A7%D8%AC%D9%8A%20%D8%A7%D8%A8%D8%A7%D8%AF)
 ------------------
 
 ## روز و ساعت مطالعه دروس
