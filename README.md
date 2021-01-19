@@ -17,7 +17,7 @@
 
 ---------------------------
 ##  بخش دروس کارشناسی
-- [خلاصه ارزیابی درس نظریه زبان و ماشین](https://github.com/mir-mohammad/PNU_3991_AR/blob/main/Theory-of-Languages-and-Machines/MK_Theory-of-Languages-and-Machines_CheckList_AR_3991.pdf)
+- [خلاصه ارزیابی درس نظریه زبان و ماشین](https://github.com/atieh-farokhi/PNU_3991_AR/blob/main/AF_Theory-of-Languages-and-Machines_CheckList_AR_3991.pdf)
 
 ------
 
