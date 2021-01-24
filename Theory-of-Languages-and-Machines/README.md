@@ -17,14 +17,9 @@ Published online: November 2020
 ------------------
 
 ### لینک پروژه نهایی
-- [ اینجا کلیک کنید](mir-mohammad.github.io/learning/)
 
 - [ جزيیات پروژه](https://github.com/atieh-farokhi/PNU_3991_AR/blob/main/Theory-of-Languages-and-Machines/%D8%AC%D8%B2%D8%A6%DB%8C%D8%A7%D8%AA%20%D9%BE%D8%B1%D9%88%DA%98%D9%87.pdf)
 
-
-### :لینک به صورت جداگانه 
-mir-mohammad.github.io/learning/
----------
 ### :اعضای گروه
 1. [G-T01](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_01)
     1. [_TLM01-56 میرمحمد کمالی](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_01/56_%D9%85%D9%8A%D8%B1%D9%85%D8%AD%D9%85%D8%AF%20%D9%83%D9%85%D8%A7%D9%84%D9%8A)    
